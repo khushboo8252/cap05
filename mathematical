@@ -1,3 +1,51 @@
-let a=5;
-let b=10;
-console.log(a+b)
+let number = 9;
+
+if(number % 3 == 0){
+  console.log("number is multiple of 3")
+}
+else{
+  console.log("number is not multiple of 3")
+}
+
+
+let age = 23;
+if (age>18){
+  console.log("Apply for a license")
+}
+else{
+  console.log("NA")
+}
+
+let a = 6;
+let b = 4;
+if (a>b){
+  console.log("a is greater than b")
+}
+else if (a<b){
+  console.log("b is greater than a")
+}
+
+else{
+  console.log("both are equal")
+}
+
+
+ // Given stored username and password and input username and password, Print if the user can login or not.
+let credential_username ="khushboo"
+let credential_password ="masai"
+let username ="khushboo";
+let password ="masai";
+if (credential_username == username)
+{
+ if (credential_password == password) 
+ {
+   console.log("you can login")
+ }
+  else {
+    console.log("your password is not matching")
+  }
+  }
+else{
+  console.log("your username is not matching")
+  }
+  
