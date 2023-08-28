@@ -1,2 +1,39 @@
-let name = "Masai School"
-console.log(name)
+let name = "Masai School" ;
+console.log (name)
+let edu = "A Transformation is Education";
+console.log (edu)
+
+var name = "Khushboo Kumari";
+console.log (name)
+var father ="Bhola Prasad";
+console.log (father)
+var mother ="Bhuneshwari Devi";
+console.log (mother)
+
+
+var a ="Khushboo Kumari";
+console.log(a)
+console.log (typeof a)
+var age ="22";
+console.log(age)
+console.log(typeof age)
+
+
+var name1 ="Khushboo Kumari";
+var school ="S.L.V High school";
+var section ="A";
+var rollno ="12";
+var english ="80";
+var computer ="75";
+var math ="85";
+var grade="A";
+console.log("//***************************//")
+console.log(name1)
+console.log(school)
+console.log(section)
+console.log(rollno)
+console.log(english)
+console.log(computer)
+console.log(math)
+console.log(grade)
+console.log("//**************************//")
